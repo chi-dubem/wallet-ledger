@@ -23,7 +23,7 @@ const router = createBrowserRouter([
 export default function App() {
 
   return (
-    <div className="flex flex-col min-h-screen w-[98%] mx-auto py-4">
+    <div className="min-h-screen w-[98%] mx-auto py-4">
       <RouterProvider router={router} />
     </div>
   ); 

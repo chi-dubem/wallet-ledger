@@ -9,7 +9,7 @@ export default function NavBar() {
   return (
     <div
       className="
-          fixed top-0 left-0 h-full bg-white  z-30
+          fixed top-0 left-0 h-full   z-30
           transition-transform duration-300 ease-in-out
           -translate-x-full
           w-[280px] md:w-64 lg:w-72

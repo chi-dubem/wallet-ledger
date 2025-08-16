@@ -1,1 +1,10 @@
 @import "tailwindcss";
+
+body{
+overflow-x: hidden
+}
+
+
+.input{
+    @apply border border-gray-50;
+}
